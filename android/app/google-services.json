@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "465520390807",
+    "project_id": "scrapper-df839",
+    "storage_bucket": "scrapper-df839.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465520390807:android:fe1c9f799460254472efd2",
+        "android_client_info": {
+          "package_name": "com.scrapapp.scrap_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465520390807-pna5i6fcdiuaq979oo999ltrj86cb54g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.scrapapp.scrap_app",
+            "certificate_hash": "8662b2ee93b37c8b939bfb7ee651b4743d62f1d9"
+          }
+        },
+        {
+          "client_id": "465520390807-r0qpbjuckf8fvtl17t46s0u6rdlas7cj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUpKIoNHNHJvy_RdmOiz190NvvjOXzPSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465520390807-r0qpbjuckf8fvtl17t46s0u6rdlas7cj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
